@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    background-color: gainsboro;
+}
+#box {
+    width: 90%;
+    height: 80%;
+    background-color: white;
+}
+#image {
+    display: flex;
+    flex-flow: row;
+    height: 90%;
+    overflow: hidden;
+}
